@@ -269,3 +269,684 @@
 2026-07-30 04:05:17,215 - INFO - InventoryPage - Logout completed
 2026-07-30 04:05:17,218 - INFO - Test - ========== test_logout Passed ==========
 2026-07-30 04:05:17,219 - INFO - Browser - Closing Browser
+2026-07-30 04:13:37,311 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:13:38,866 - INFO - Browser - Browser Maximized
+2026-07-30 04:13:39,623 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:13:39,624 - INFO - LoginPage - Login process started
+2026-07-30 04:13:39,624 - INFO - LoginPage - Entering username
+2026-07-30 04:13:39,711 - INFO - LoginPage - Entering password
+2026-07-30 04:13:39,773 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:13:39,857 - INFO - LoginPage - Login process completed
+2026-07-30 04:13:39,857 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:13:39,933 - INFO - Browser - Closing Browser
+2026-07-30 04:13:42,026 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:13:43,488 - INFO - Browser - Browser Maximized
+2026-07-30 04:13:43,983 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:13:43,984 - INFO - Test - ========== test_valid_login Started ==========
+2026-07-30 04:13:43,984 - INFO - LoginPage - Login process started
+2026-07-30 04:13:43,984 - INFO - LoginPage - Entering username
+2026-07-30 04:13:44,065 - INFO - LoginPage - Entering password
+2026-07-30 04:13:44,132 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:13:44,225 - INFO - LoginPage - Login process completed
+2026-07-30 04:13:44,247 - INFO - Test - ========== test_valid_login Passed ==========
+2026-07-30 04:13:44,248 - INFO - Browser - Closing Browser
+2026-07-30 04:13:46,355 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:13:47,842 - INFO - Browser - Browser Maximized
+2026-07-30 04:13:48,277 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:13:48,278 - INFO - Test - ========== test_logout Started ==========
+2026-07-30 04:13:48,278 - INFO - LoginPage - Login process started
+2026-07-30 04:13:48,278 - INFO - LoginPage - Entering username
+2026-07-30 04:13:48,357 - INFO - LoginPage - Entering password
+2026-07-30 04:13:48,421 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:13:48,507 - INFO - LoginPage - Login process completed
+2026-07-30 04:13:48,508 - INFO - InventoryPage - Logout started
+2026-07-30 04:13:48,508 - INFO - InventoryPage - Opening side menu
+2026-07-30 04:13:49,089 - INFO - InventoryPage - Clicking Logout
+2026-07-30 04:13:49,116 - INFO - InventoryPage - Logout completed
+2026-07-30 04:13:49,118 - INFO - Test - ========== test_logout Passed ==========
+2026-07-30 04:13:49,119 - INFO - Browser - Closing Browser
+2026-07-30 04:14:11,156 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:14:12,662 - INFO - Browser - Browser Maximized
+2026-07-30 04:14:13,120 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:14:13,121 - INFO - LoginPage - Login process started
+2026-07-30 04:14:13,121 - INFO - LoginPage - Entering username
+2026-07-30 04:14:13,201 - INFO - LoginPage - Entering password
+2026-07-30 04:14:13,268 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:14:13,352 - INFO - LoginPage - Login process completed
+2026-07-30 04:14:13,352 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:14:13,421 - INFO - Browser - Closing Browser
+2026-07-30 04:14:15,533 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:14:17,005 - INFO - Browser - Browser Maximized
+2026-07-30 04:14:17,483 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:14:17,484 - INFO - LoginPage - Login process started
+2026-07-30 04:14:17,484 - INFO - LoginPage - Entering username
+2026-07-30 04:14:17,566 - INFO - LoginPage - Entering password
+2026-07-30 04:14:17,630 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:14:17,723 - INFO - LoginPage - Login process completed
+2026-07-30 04:14:17,723 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:14:17,778 - INFO - InventoryPage - Adding Bike Light
+2026-07-30 04:14:17,852 - INFO - Browser - Closing Browser
+2026-07-30 04:14:19,940 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:14:21,395 - INFO - Browser - Browser Maximized
+2026-07-30 04:14:21,858 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:14:21,858 - INFO - Test - ========== test_valid_login Started ==========
+2026-07-30 04:14:21,859 - INFO - LoginPage - Login process started
+2026-07-30 04:14:21,859 - INFO - LoginPage - Entering username
+2026-07-30 04:14:21,943 - INFO - LoginPage - Entering password
+2026-07-30 04:14:22,013 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:14:22,100 - INFO - LoginPage - Login process completed
+2026-07-30 04:14:22,122 - INFO - Test - ========== test_valid_login Passed ==========
+2026-07-30 04:14:22,122 - INFO - Browser - Closing Browser
+2026-07-30 04:14:24,210 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:14:25,732 - INFO - Browser - Browser Maximized
+2026-07-30 04:14:26,201 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:14:26,202 - INFO - Test - ========== test_logout Started ==========
+2026-07-30 04:14:26,202 - INFO - LoginPage - Login process started
+2026-07-30 04:14:26,202 - INFO - LoginPage - Entering username
+2026-07-30 04:14:26,288 - INFO - LoginPage - Entering password
+2026-07-30 04:14:26,356 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:14:26,443 - INFO - LoginPage - Login process completed
+2026-07-30 04:14:26,444 - INFO - InventoryPage - Logout started
+2026-07-30 04:14:26,444 - INFO - InventoryPage - Opening side menu
+2026-07-30 04:14:27,024 - INFO - InventoryPage - Clicking Logout
+2026-07-30 04:14:27,053 - INFO - InventoryPage - Logout completed
+2026-07-30 04:14:27,055 - INFO - Test - ========== test_logout Passed ==========
+2026-07-30 04:14:27,056 - INFO - Browser - Closing Browser
+2026-07-30 04:14:35,843 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:14:37,393 - INFO - Browser - Browser Maximized
+2026-07-30 04:14:37,868 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:14:37,869 - INFO - LoginPage - Login process started
+2026-07-30 04:14:37,869 - INFO - LoginPage - Entering username
+2026-07-30 04:14:37,951 - INFO - LoginPage - Entering password
+2026-07-30 04:14:38,015 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:14:38,107 - INFO - LoginPage - Login process completed
+2026-07-30 04:14:38,107 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:14:38,184 - INFO - Browser - Closing Browser
+2026-07-30 04:14:40,265 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:14:41,715 - INFO - Browser - Browser Maximized
+2026-07-30 04:14:42,188 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:14:42,189 - INFO - LoginPage - Login process started
+2026-07-30 04:14:42,189 - INFO - LoginPage - Entering username
+2026-07-30 04:14:42,273 - INFO - LoginPage - Entering password
+2026-07-30 04:14:42,342 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:14:42,431 - INFO - LoginPage - Login process completed
+2026-07-30 04:14:42,431 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:14:42,488 - INFO - InventoryPage - Adding Bike Light
+2026-07-30 04:14:42,563 - INFO - Browser - Closing Browser
+2026-07-30 04:14:44,645 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:14:46,100 - INFO - Browser - Browser Maximized
+2026-07-30 04:14:46,546 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:14:46,547 - INFO - LoginPage - Login process started
+2026-07-30 04:14:46,547 - INFO - LoginPage - Entering username
+2026-07-30 04:14:46,629 - INFO - LoginPage - Entering password
+2026-07-30 04:14:46,700 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:14:46,790 - INFO - LoginPage - Login process completed
+2026-07-30 04:14:46,791 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:14:46,850 - INFO - InventoryPage - Removing Backpack
+2026-07-30 04:14:56,940 - INFO - Browser - Closing Browser
+2026-07-30 04:14:59,058 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:15:00,527 - INFO - Browser - Browser Maximized
+2026-07-30 04:15:00,964 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:15:00,965 - INFO - Test - ========== test_valid_login Started ==========
+2026-07-30 04:15:00,965 - INFO - LoginPage - Login process started
+2026-07-30 04:15:00,965 - INFO - LoginPage - Entering username
+2026-07-30 04:15:01,049 - INFO - LoginPage - Entering password
+2026-07-30 04:15:01,120 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:15:01,228 - INFO - LoginPage - Login process completed
+2026-07-30 04:15:01,249 - INFO - Test - ========== test_valid_login Passed ==========
+2026-07-30 04:15:01,250 - INFO - Browser - Closing Browser
+2026-07-30 04:15:03,341 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:15:04,805 - INFO - Browser - Browser Maximized
+2026-07-30 04:15:05,223 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:15:05,224 - INFO - Test - ========== test_logout Started ==========
+2026-07-30 04:15:05,224 - INFO - LoginPage - Login process started
+2026-07-30 04:15:05,224 - INFO - LoginPage - Entering username
+2026-07-30 04:15:05,309 - INFO - LoginPage - Entering password
+2026-07-30 04:15:05,377 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:15:05,463 - INFO - LoginPage - Login process completed
+2026-07-30 04:15:05,463 - INFO - InventoryPage - Logout started
+2026-07-30 04:15:05,463 - INFO - InventoryPage - Opening side menu
+2026-07-30 04:15:06,044 - INFO - InventoryPage - Clicking Logout
+2026-07-30 04:15:06,072 - INFO - InventoryPage - Logout completed
+2026-07-30 04:15:06,075 - INFO - Test - ========== test_logout Passed ==========
+2026-07-30 04:15:06,076 - INFO - Browser - Closing Browser
+2026-07-30 04:15:29,508 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:15:30,999 - INFO - Browser - Browser Maximized
+2026-07-30 04:15:31,455 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:15:31,456 - INFO - LoginPage - Login process started
+2026-07-30 04:15:31,456 - INFO - LoginPage - Entering username
+2026-07-30 04:15:31,540 - INFO - LoginPage - Entering password
+2026-07-30 04:15:31,605 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:15:31,689 - INFO - LoginPage - Login process completed
+2026-07-30 04:15:31,690 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:15:31,774 - INFO - Browser - Closing Browser
+2026-07-30 04:15:33,871 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:15:35,351 - INFO - Browser - Browser Maximized
+2026-07-30 04:15:35,843 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:15:35,845 - INFO - LoginPage - Login process started
+2026-07-30 04:15:35,845 - INFO - LoginPage - Entering username
+2026-07-30 04:15:35,930 - INFO - LoginPage - Entering password
+2026-07-30 04:15:35,996 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:15:36,086 - INFO - LoginPage - Login process completed
+2026-07-30 04:15:36,087 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:15:36,155 - INFO - InventoryPage - Adding Bike Light
+2026-07-30 04:15:36,228 - INFO - Browser - Closing Browser
+2026-07-30 04:15:38,324 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:15:39,756 - INFO - Browser - Browser Maximized
+2026-07-30 04:15:40,210 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:15:40,211 - INFO - LoginPage - Login process started
+2026-07-30 04:15:40,211 - INFO - LoginPage - Entering username
+2026-07-30 04:15:40,295 - INFO - LoginPage - Entering password
+2026-07-30 04:15:40,362 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:15:40,454 - INFO - LoginPage - Login process completed
+2026-07-30 04:15:40,455 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:15:40,511 - INFO - InventoryPage - Removing Backpack
+2026-07-30 04:15:50,568 - INFO - Browser - Closing Browser
+2026-07-30 04:15:52,680 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:15:54,170 - INFO - Browser - Browser Maximized
+2026-07-30 04:15:54,640 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:15:54,641 - INFO - LoginPage - Login process started
+2026-07-30 04:15:54,641 - INFO - LoginPage - Entering username
+2026-07-30 04:15:54,720 - INFO - LoginPage - Entering password
+2026-07-30 04:15:54,781 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:15:54,880 - INFO - LoginPage - Login process completed
+2026-07-30 04:15:54,880 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:15:54,950 - INFO - Browser - Closing Browser
+2026-07-30 04:15:57,038 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:15:58,475 - INFO - Browser - Browser Maximized
+2026-07-30 04:15:58,950 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:15:58,951 - INFO - Test - ========== test_valid_login Started ==========
+2026-07-30 04:15:58,951 - INFO - LoginPage - Login process started
+2026-07-30 04:15:58,951 - INFO - LoginPage - Entering username
+2026-07-30 04:15:59,033 - INFO - LoginPage - Entering password
+2026-07-30 04:15:59,100 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:15:59,187 - INFO - LoginPage - Login process completed
+2026-07-30 04:15:59,210 - INFO - Test - ========== test_valid_login Passed ==========
+2026-07-30 04:15:59,211 - INFO - Browser - Closing Browser
+2026-07-30 04:16:01,292 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:16:02,765 - INFO - Browser - Browser Maximized
+2026-07-30 04:16:03,241 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:16:03,242 - INFO - Test - ========== test_logout Started ==========
+2026-07-30 04:16:03,242 - INFO - LoginPage - Login process started
+2026-07-30 04:16:03,242 - INFO - LoginPage - Entering username
+2026-07-30 04:16:03,323 - INFO - LoginPage - Entering password
+2026-07-30 04:16:03,390 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:16:03,484 - INFO - LoginPage - Login process completed
+2026-07-30 04:16:03,485 - INFO - InventoryPage - Logout started
+2026-07-30 04:16:03,485 - INFO - InventoryPage - Opening side menu
+2026-07-30 04:16:04,103 - INFO - InventoryPage - Clicking Logout
+2026-07-30 04:16:04,129 - INFO - InventoryPage - Logout completed
+2026-07-30 04:16:04,132 - INFO - Test - ========== test_logout Passed ==========
+2026-07-30 04:16:04,133 - INFO - Browser - Closing Browser
+2026-07-30 04:16:52,998 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:16:54,525 - INFO - Browser - Browser Maximized
+2026-07-30 04:16:55,012 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:16:55,012 - INFO - LoginPage - Login process started
+2026-07-30 04:16:55,012 - INFO - LoginPage - Entering username
+2026-07-30 04:16:55,094 - INFO - LoginPage - Entering password
+2026-07-30 04:16:55,163 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:16:55,252 - INFO - LoginPage - Login process completed
+2026-07-30 04:16:55,252 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:16:55,308 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:16:55,384 - INFO - Browser - Closing Browser
+2026-07-30 04:16:57,486 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:16:58,947 - INFO - Browser - Browser Maximized
+2026-07-30 04:16:59,422 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:16:59,423 - INFO - LoginPage - Login process started
+2026-07-30 04:16:59,423 - INFO - LoginPage - Entering username
+2026-07-30 04:16:59,509 - INFO - LoginPage - Entering password
+2026-07-30 04:16:59,576 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:16:59,664 - INFO - LoginPage - Login process completed
+2026-07-30 04:16:59,665 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:16:59,747 - INFO - Browser - Closing Browser
+2026-07-30 04:17:01,838 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:17:03,308 - INFO - Browser - Browser Maximized
+2026-07-30 04:17:03,774 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:17:03,775 - INFO - LoginPage - Login process started
+2026-07-30 04:17:03,775 - INFO - LoginPage - Entering username
+2026-07-30 04:17:03,860 - INFO - LoginPage - Entering password
+2026-07-30 04:17:03,930 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:17:04,017 - INFO - LoginPage - Login process completed
+2026-07-30 04:17:04,018 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:17:04,076 - INFO - InventoryPage - Adding Bike Light
+2026-07-30 04:17:04,166 - INFO - Browser - Closing Browser
+2026-07-30 04:17:06,244 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:17:07,714 - INFO - Browser - Browser Maximized
+2026-07-30 04:17:08,182 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:17:08,183 - INFO - LoginPage - Login process started
+2026-07-30 04:17:08,183 - INFO - LoginPage - Entering username
+2026-07-30 04:17:08,267 - INFO - LoginPage - Entering password
+2026-07-30 04:17:08,337 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:17:08,428 - INFO - LoginPage - Login process completed
+2026-07-30 04:17:08,429 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:17:08,486 - INFO - InventoryPage - Removing Backpack
+2026-07-30 04:17:18,591 - INFO - Browser - Closing Browser
+2026-07-30 04:17:20,706 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:17:22,195 - INFO - Browser - Browser Maximized
+2026-07-30 04:17:22,646 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:17:22,647 - INFO - LoginPage - Login process started
+2026-07-30 04:17:22,647 - INFO - LoginPage - Entering username
+2026-07-30 04:17:22,728 - INFO - LoginPage - Entering password
+2026-07-30 04:17:22,798 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:17:22,896 - INFO - LoginPage - Login process completed
+2026-07-30 04:17:22,896 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:17:22,980 - INFO - Browser - Closing Browser
+2026-07-30 04:17:25,061 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:17:26,583 - INFO - Browser - Browser Maximized
+2026-07-30 04:17:26,988 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:17:26,988 - INFO - Test - ========== test_valid_login Started ==========
+2026-07-30 04:17:26,989 - INFO - LoginPage - Login process started
+2026-07-30 04:17:26,989 - INFO - LoginPage - Entering username
+2026-07-30 04:17:27,072 - INFO - LoginPage - Entering password
+2026-07-30 04:17:27,139 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:17:27,225 - INFO - LoginPage - Login process completed
+2026-07-30 04:17:27,247 - INFO - Test - ========== test_valid_login Passed ==========
+2026-07-30 04:17:27,248 - INFO - Browser - Closing Browser
+2026-07-30 04:17:29,332 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:17:30,790 - INFO - Browser - Browser Maximized
+2026-07-30 04:17:31,251 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:17:31,251 - INFO - Test - ========== test_logout Started ==========
+2026-07-30 04:17:31,252 - INFO - LoginPage - Login process started
+2026-07-30 04:17:31,252 - INFO - LoginPage - Entering username
+2026-07-30 04:17:31,335 - INFO - LoginPage - Entering password
+2026-07-30 04:17:31,406 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:17:31,495 - INFO - LoginPage - Login process completed
+2026-07-30 04:17:31,496 - INFO - InventoryPage - Logout started
+2026-07-30 04:17:31,496 - INFO - InventoryPage - Opening side menu
+2026-07-30 04:17:32,079 - INFO - InventoryPage - Clicking Logout
+2026-07-30 04:17:32,106 - INFO - InventoryPage - Logout completed
+2026-07-30 04:17:32,109 - INFO - Test - ========== test_logout Passed ==========
+2026-07-30 04:17:32,110 - INFO - Browser - Closing Browser
+2026-07-30 04:17:48,075 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:17:49,575 - INFO - Browser - Browser Maximized
+2026-07-30 04:17:50,050 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:17:50,051 - INFO - LoginPage - Login process started
+2026-07-30 04:17:50,051 - INFO - LoginPage - Entering username
+2026-07-30 04:17:50,131 - INFO - LoginPage - Entering password
+2026-07-30 04:17:50,194 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:17:50,283 - INFO - LoginPage - Login process completed
+2026-07-30 04:17:50,283 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:17:50,334 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:17:50,406 - INFO - Browser - Closing Browser
+2026-07-30 04:17:52,490 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:17:53,988 - INFO - Browser - Browser Maximized
+2026-07-30 04:17:54,440 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:17:54,441 - INFO - LoginPage - Login process started
+2026-07-30 04:17:54,441 - INFO - LoginPage - Entering username
+2026-07-30 04:17:54,520 - INFO - LoginPage - Entering password
+2026-07-30 04:17:54,589 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:17:54,680 - INFO - LoginPage - Login process completed
+2026-07-30 04:17:54,681 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:17:54,738 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:17:54,860 - INFO - Browser - Closing Browser
+2026-07-30 04:17:56,960 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:17:58,377 - INFO - Browser - Browser Maximized
+2026-07-30 04:17:58,839 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:17:58,840 - INFO - LoginPage - Login process started
+2026-07-30 04:17:58,840 - INFO - LoginPage - Entering username
+2026-07-30 04:17:58,922 - INFO - LoginPage - Entering password
+2026-07-30 04:17:58,988 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:17:59,077 - INFO - LoginPage - Login process completed
+2026-07-30 04:17:59,077 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:17:59,158 - INFO - Browser - Closing Browser
+2026-07-30 04:18:01,248 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:18:02,721 - INFO - Browser - Browser Maximized
+2026-07-30 04:18:03,135 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:18:03,136 - INFO - LoginPage - Login process started
+2026-07-30 04:18:03,136 - INFO - LoginPage - Entering username
+2026-07-30 04:18:03,218 - INFO - LoginPage - Entering password
+2026-07-30 04:18:03,281 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:18:03,378 - INFO - LoginPage - Login process completed
+2026-07-30 04:18:03,379 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:18:03,439 - INFO - InventoryPage - Adding Bike Light
+2026-07-30 04:18:03,512 - INFO - Browser - Closing Browser
+2026-07-30 04:18:05,603 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:18:07,089 - INFO - Browser - Browser Maximized
+2026-07-30 04:18:07,557 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:18:07,558 - INFO - LoginPage - Login process started
+2026-07-30 04:18:07,558 - INFO - LoginPage - Entering username
+2026-07-30 04:18:07,642 - INFO - LoginPage - Entering password
+2026-07-30 04:18:07,718 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:18:07,809 - INFO - LoginPage - Login process completed
+2026-07-30 04:18:07,810 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:18:07,868 - INFO - InventoryPage - Removing Backpack
+2026-07-30 04:18:17,966 - INFO - Browser - Closing Browser
+2026-07-30 04:18:20,077 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:18:21,549 - INFO - Browser - Browser Maximized
+2026-07-30 04:18:21,984 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:18:21,985 - INFO - LoginPage - Login process started
+2026-07-30 04:18:21,985 - INFO - LoginPage - Entering username
+2026-07-30 04:18:22,074 - INFO - LoginPage - Entering password
+2026-07-30 04:18:22,138 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:18:22,225 - INFO - LoginPage - Login process completed
+2026-07-30 04:18:22,226 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:18:22,288 - INFO - Browser - Closing Browser
+2026-07-30 04:18:24,373 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:18:25,846 - INFO - Browser - Browser Maximized
+2026-07-30 04:18:26,304 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:18:26,304 - INFO - Test - ========== test_valid_login Started ==========
+2026-07-30 04:18:26,305 - INFO - LoginPage - Login process started
+2026-07-30 04:18:26,305 - INFO - LoginPage - Entering username
+2026-07-30 04:18:26,385 - INFO - LoginPage - Entering password
+2026-07-30 04:18:26,456 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:18:26,547 - INFO - LoginPage - Login process completed
+2026-07-30 04:18:26,569 - INFO - Test - ========== test_valid_login Passed ==========
+2026-07-30 04:18:26,570 - INFO - Browser - Closing Browser
+2026-07-30 04:18:28,644 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:18:30,146 - INFO - Browser - Browser Maximized
+2026-07-30 04:18:30,606 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:18:30,607 - INFO - Test - ========== test_logout Started ==========
+2026-07-30 04:18:30,607 - INFO - LoginPage - Login process started
+2026-07-30 04:18:30,607 - INFO - LoginPage - Entering username
+2026-07-30 04:18:30,688 - INFO - LoginPage - Entering password
+2026-07-30 04:18:30,757 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:18:30,845 - INFO - LoginPage - Login process completed
+2026-07-30 04:18:30,845 - INFO - InventoryPage - Logout started
+2026-07-30 04:18:30,845 - INFO - InventoryPage - Opening side menu
+2026-07-30 04:18:31,428 - INFO - InventoryPage - Clicking Logout
+2026-07-30 04:18:31,455 - INFO - InventoryPage - Logout completed
+2026-07-30 04:18:31,457 - INFO - Test - ========== test_logout Passed ==========
+2026-07-30 04:18:31,458 - INFO - Browser - Closing Browser
+2026-07-30 04:18:40,455 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:18:41,962 - INFO - Browser - Browser Maximized
+2026-07-30 04:18:42,427 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:18:42,428 - INFO - LoginPage - Login process started
+2026-07-30 04:18:42,428 - INFO - LoginPage - Entering username
+2026-07-30 04:18:42,508 - INFO - LoginPage - Entering password
+2026-07-30 04:18:42,576 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:18:42,659 - INFO - LoginPage - Login process completed
+2026-07-30 04:18:42,660 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:18:42,714 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:18:42,787 - INFO - Browser - Closing Browser
+2026-07-30 04:18:44,890 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:18:46,349 - INFO - Browser - Browser Maximized
+2026-07-30 04:18:46,787 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:18:46,788 - INFO - LoginPage - Login process started
+2026-07-30 04:18:46,788 - INFO - LoginPage - Entering username
+2026-07-30 04:18:46,871 - INFO - LoginPage - Entering password
+2026-07-30 04:18:46,939 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:18:47,028 - INFO - LoginPage - Login process completed
+2026-07-30 04:18:47,029 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:18:47,088 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:18:47,220 - INFO - Browser - Closing Browser
+2026-07-30 04:18:49,315 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:18:50,818 - INFO - Browser - Browser Maximized
+2026-07-30 04:18:51,327 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:18:51,328 - INFO - LoginPage - Login process started
+2026-07-30 04:18:51,328 - INFO - LoginPage - Entering username
+2026-07-30 04:18:51,412 - INFO - LoginPage - Entering password
+2026-07-30 04:18:51,485 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:18:51,573 - INFO - LoginPage - Login process completed
+2026-07-30 04:18:51,573 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:18:51,626 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:19:02,022 - INFO - Browser - Closing Browser
+2026-07-30 04:19:04,131 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:19:05,551 - INFO - Browser - Browser Maximized
+2026-07-30 04:19:06,016 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:19:06,017 - INFO - LoginPage - Login process started
+2026-07-30 04:19:06,017 - INFO - LoginPage - Entering username
+2026-07-30 04:19:06,105 - INFO - LoginPage - Entering password
+2026-07-30 04:19:06,167 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:19:06,272 - INFO - LoginPage - Login process completed
+2026-07-30 04:19:06,273 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:19:06,352 - INFO - Browser - Closing Browser
+2026-07-30 04:19:08,438 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:19:09,891 - INFO - Browser - Browser Maximized
+2026-07-30 04:19:10,379 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:19:10,380 - INFO - LoginPage - Login process started
+2026-07-30 04:19:10,380 - INFO - LoginPage - Entering username
+2026-07-30 04:19:10,475 - INFO - LoginPage - Entering password
+2026-07-30 04:19:10,544 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:19:10,631 - INFO - LoginPage - Login process completed
+2026-07-30 04:19:10,632 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:19:10,689 - INFO - InventoryPage - Adding Bike Light
+2026-07-30 04:19:10,765 - INFO - Browser - Closing Browser
+2026-07-30 04:19:12,863 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:19:14,378 - INFO - Browser - Browser Maximized
+2026-07-30 04:19:14,808 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:19:14,809 - INFO - LoginPage - Login process started
+2026-07-30 04:19:14,810 - INFO - LoginPage - Entering username
+2026-07-30 04:19:14,901 - INFO - LoginPage - Entering password
+2026-07-30 04:19:14,964 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:19:15,051 - INFO - LoginPage - Login process completed
+2026-07-30 04:19:15,052 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:19:15,124 - INFO - InventoryPage - Removing Backpack
+2026-07-30 04:19:25,200 - INFO - Browser - Closing Browser
+2026-07-30 04:19:27,320 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:19:28,814 - INFO - Browser - Browser Maximized
+2026-07-30 04:19:29,301 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:19:29,301 - INFO - LoginPage - Login process started
+2026-07-30 04:19:29,302 - INFO - LoginPage - Entering username
+2026-07-30 04:19:29,387 - INFO - LoginPage - Entering password
+2026-07-30 04:19:29,455 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:19:29,543 - INFO - LoginPage - Login process completed
+2026-07-30 04:19:29,543 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:19:29,608 - INFO - Browser - Closing Browser
+2026-07-30 04:19:31,698 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:19:33,180 - INFO - Browser - Browser Maximized
+2026-07-30 04:19:33,607 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:19:33,607 - INFO - Test - ========== test_valid_login Started ==========
+2026-07-30 04:19:33,608 - INFO - LoginPage - Login process started
+2026-07-30 04:19:33,608 - INFO - LoginPage - Entering username
+2026-07-30 04:19:33,689 - INFO - LoginPage - Entering password
+2026-07-30 04:19:33,752 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:19:33,846 - INFO - LoginPage - Login process completed
+2026-07-30 04:19:33,869 - INFO - Test - ========== test_valid_login Passed ==========
+2026-07-30 04:19:33,870 - INFO - Browser - Closing Browser
+2026-07-30 04:19:35,947 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:19:37,438 - INFO - Browser - Browser Maximized
+2026-07-30 04:19:37,899 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:19:37,900 - INFO - Test - ========== test_logout Started ==========
+2026-07-30 04:19:37,900 - INFO - LoginPage - Login process started
+2026-07-30 04:19:37,900 - INFO - LoginPage - Entering username
+2026-07-30 04:19:37,985 - INFO - LoginPage - Entering password
+2026-07-30 04:19:38,051 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:19:38,142 - INFO - LoginPage - Login process completed
+2026-07-30 04:19:38,143 - INFO - InventoryPage - Logout started
+2026-07-30 04:19:38,143 - INFO - InventoryPage - Opening side menu
+2026-07-30 04:19:38,727 - INFO - InventoryPage - Clicking Logout
+2026-07-30 04:19:38,754 - INFO - InventoryPage - Logout completed
+2026-07-30 04:19:38,756 - INFO - Test - ========== test_logout Passed ==========
+2026-07-30 04:19:38,757 - INFO - Browser - Closing Browser
+2026-07-30 04:20:06,590 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:20:08,114 - INFO - Browser - Browser Maximized
+2026-07-30 04:20:08,554 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:20:08,555 - INFO - LoginPage - Login process started
+2026-07-30 04:20:08,555 - INFO - LoginPage - Entering username
+2026-07-30 04:20:08,639 - INFO - LoginPage - Entering password
+2026-07-30 04:20:08,704 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:20:08,787 - INFO - LoginPage - Login process completed
+2026-07-30 04:20:08,787 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:20:08,841 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:20:08,917 - INFO - Browser - Closing Browser
+2026-07-30 04:20:10,999 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:20:12,454 - INFO - Browser - Browser Maximized
+2026-07-30 04:20:12,907 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:20:12,908 - INFO - LoginPage - Login process started
+2026-07-30 04:20:12,908 - INFO - LoginPage - Entering username
+2026-07-30 04:20:12,993 - INFO - LoginPage - Entering password
+2026-07-30 04:20:13,061 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:20:13,153 - INFO - LoginPage - Login process completed
+2026-07-30 04:20:13,153 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:20:13,209 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:20:13,351 - INFO - Browser - Closing Browser
+2026-07-30 04:20:15,442 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:20:16,891 - INFO - Browser - Browser Maximized
+2026-07-30 04:20:17,353 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:20:17,354 - INFO - LoginPage - Login process started
+2026-07-30 04:20:17,354 - INFO - LoginPage - Entering username
+2026-07-30 04:20:17,437 - INFO - LoginPage - Entering password
+2026-07-30 04:20:17,505 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:20:17,590 - INFO - LoginPage - Login process completed
+2026-07-30 04:20:17,591 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:20:17,648 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:20:28,009 - INFO - Browser - Closing Browser
+2026-07-30 04:20:30,135 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:20:31,638 - INFO - Browser - Browser Maximized
+2026-07-30 04:20:32,104 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:20:32,105 - INFO - LoginPage - Login process started
+2026-07-30 04:20:32,105 - INFO - LoginPage - Entering username
+2026-07-30 04:20:32,190 - INFO - LoginPage - Entering password
+2026-07-30 04:20:32,259 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:20:32,349 - INFO - LoginPage - Login process completed
+2026-07-30 04:20:32,350 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:20:32,431 - INFO - Browser - Closing Browser
+2026-07-30 04:20:34,534 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:20:35,992 - INFO - Browser - Browser Maximized
+2026-07-30 04:20:36,461 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:20:36,462 - INFO - LoginPage - Login process started
+2026-07-30 04:20:36,462 - INFO - LoginPage - Entering username
+2026-07-30 04:20:36,543 - INFO - LoginPage - Entering password
+2026-07-30 04:20:36,612 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:20:36,701 - INFO - LoginPage - Login process completed
+2026-07-30 04:20:36,702 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:20:36,759 - INFO - InventoryPage - Adding Bike Light
+2026-07-30 04:20:36,834 - INFO - Browser - Closing Browser
+2026-07-30 04:20:38,927 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:20:40,367 - INFO - Browser - Browser Maximized
+2026-07-30 04:20:40,821 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:20:40,822 - INFO - LoginPage - Login process started
+2026-07-30 04:20:40,822 - INFO - LoginPage - Entering username
+2026-07-30 04:20:40,904 - INFO - LoginPage - Entering password
+2026-07-30 04:20:40,972 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:20:41,059 - INFO - LoginPage - Login process completed
+2026-07-30 04:20:41,060 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:20:41,123 - INFO - InventoryPage - Removing Backpack
+2026-07-30 04:20:51,243 - INFO - Browser - Closing Browser
+2026-07-30 04:20:53,349 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:20:54,832 - INFO - Browser - Browser Maximized
+2026-07-30 04:20:55,255 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:20:55,255 - INFO - LoginPage - Login process started
+2026-07-30 04:20:55,255 - INFO - LoginPage - Entering username
+2026-07-30 04:20:55,337 - INFO - LoginPage - Entering password
+2026-07-30 04:20:55,406 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:20:55,496 - INFO - LoginPage - Login process completed
+2026-07-30 04:20:55,496 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:20:55,561 - INFO - Browser - Closing Browser
+2026-07-30 04:20:57,635 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:20:59,118 - INFO - Browser - Browser Maximized
+2026-07-30 04:20:59,582 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:20:59,582 - INFO - Test - ========== test_valid_login Started ==========
+2026-07-30 04:20:59,583 - INFO - LoginPage - Login process started
+2026-07-30 04:20:59,583 - INFO - LoginPage - Entering username
+2026-07-30 04:20:59,689 - INFO - LoginPage - Entering password
+2026-07-30 04:20:59,756 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:20:59,841 - INFO - LoginPage - Login process completed
+2026-07-30 04:20:59,861 - INFO - Test - ========== test_valid_login Passed ==========
+2026-07-30 04:20:59,862 - INFO - Browser - Closing Browser
+2026-07-30 04:21:01,951 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:21:03,389 - INFO - Browser - Browser Maximized
+2026-07-30 04:21:03,858 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:21:03,859 - INFO - Test - ========== test_logout Started ==========
+2026-07-30 04:21:03,860 - INFO - LoginPage - Login process started
+2026-07-30 04:21:03,860 - INFO - LoginPage - Entering username
+2026-07-30 04:21:03,946 - INFO - LoginPage - Entering password
+2026-07-30 04:21:04,014 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:21:04,118 - INFO - LoginPage - Login process completed
+2026-07-30 04:21:04,119 - INFO - InventoryPage - Logout started
+2026-07-30 04:21:04,119 - INFO - InventoryPage - Opening side menu
+2026-07-30 04:21:04,702 - INFO - InventoryPage - Clicking Logout
+2026-07-30 04:21:04,728 - INFO - InventoryPage - Logout completed
+2026-07-30 04:21:04,731 - INFO - Test - ========== test_logout Passed ==========
+2026-07-30 04:21:04,732 - INFO - Browser - Closing Browser
+2026-07-30 04:25:39,041 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:25:40,569 - INFO - Browser - Browser Maximized
+2026-07-30 04:25:41,123 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:25:41,124 - INFO - LoginPage - Login process started
+2026-07-30 04:25:41,124 - INFO - LoginPage - Entering username
+2026-07-30 04:25:41,209 - INFO - LoginPage - Entering password
+2026-07-30 04:25:41,271 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:25:41,355 - INFO - LoginPage - Login process completed
+2026-07-30 04:25:41,356 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:25:41,409 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:25:41,469 - INFO - Browser - Closing Browser
+2026-07-30 04:25:43,555 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:25:45,025 - INFO - Browser - Browser Maximized
+2026-07-30 04:25:45,500 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:25:45,501 - INFO - LoginPage - Login process started
+2026-07-30 04:25:45,501 - INFO - LoginPage - Entering username
+2026-07-30 04:25:45,584 - INFO - LoginPage - Entering password
+2026-07-30 04:25:45,655 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:25:45,746 - INFO - LoginPage - Login process completed
+2026-07-30 04:25:45,746 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:25:45,805 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:25:45,940 - INFO - Browser - Closing Browser
+2026-07-30 04:25:48,032 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:25:49,480 - INFO - Browser - Browser Maximized
+2026-07-30 04:25:49,982 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:25:49,983 - INFO - LoginPage - Login process started
+2026-07-30 04:25:49,983 - INFO - LoginPage - Entering username
+2026-07-30 04:25:50,065 - INFO - LoginPage - Entering password
+2026-07-30 04:25:50,133 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:25:50,220 - INFO - LoginPage - Login process completed
+2026-07-30 04:25:50,221 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:25:50,277 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:26:00,425 - INFO - Browser - Closing Browser
+2026-07-30 04:26:02,539 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:26:04,049 - INFO - Browser - Browser Maximized
+2026-07-30 04:26:04,513 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:26:04,514 - INFO - LoginPage - Login process started
+2026-07-30 04:26:04,514 - INFO - LoginPage - Entering username
+2026-07-30 04:26:04,601 - INFO - LoginPage - Entering password
+2026-07-30 04:26:04,666 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:26:04,766 - INFO - LoginPage - Login process completed
+2026-07-30 04:26:04,767 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:26:04,851 - INFO - Browser - Closing Browser
+2026-07-30 04:26:06,950 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:26:08,400 - INFO - Browser - Browser Maximized
+2026-07-30 04:26:08,857 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:26:08,858 - INFO - LoginPage - Login process started
+2026-07-30 04:26:08,858 - INFO - LoginPage - Entering username
+2026-07-30 04:26:08,940 - INFO - LoginPage - Entering password
+2026-07-30 04:26:09,029 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:26:09,118 - INFO - LoginPage - Login process completed
+2026-07-30 04:26:09,119 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:26:09,176 - INFO - InventoryPage - Adding Bike Light
+2026-07-30 04:26:09,249 - INFO - Browser - Closing Browser
+2026-07-30 04:26:11,351 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:26:12,770 - INFO - Browser - Browser Maximized
+2026-07-30 04:26:13,275 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:26:13,276 - INFO - LoginPage - Login process started
+2026-07-30 04:26:13,276 - INFO - LoginPage - Entering username
+2026-07-30 04:26:13,361 - INFO - LoginPage - Entering password
+2026-07-30 04:26:13,440 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:26:13,533 - INFO - LoginPage - Login process completed
+2026-07-30 04:26:13,534 - INFO - InventoryPage - Adding Backpack
+2026-07-30 04:26:13,591 - INFO - InventoryPage - Removing Backpack
+2026-07-30 04:26:23,684 - INFO - Browser - Closing Browser
+2026-07-30 04:26:25,789 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:26:27,288 - INFO - Browser - Browser Maximized
+2026-07-30 04:26:27,764 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:26:27,765 - INFO - LoginPage - Login process started
+2026-07-30 04:26:27,765 - INFO - LoginPage - Entering username
+2026-07-30 04:26:27,849 - INFO - LoginPage - Entering password
+2026-07-30 04:26:27,917 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:26:28,003 - INFO - LoginPage - Login process completed
+2026-07-30 04:26:28,004 - INFO - InventoryPage - Opening Cart
+2026-07-30 04:26:28,067 - INFO - Browser - Closing Browser
+2026-07-30 04:26:30,161 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:26:31,626 - INFO - Browser - Browser Maximized
+2026-07-30 04:26:32,085 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:26:32,085 - INFO - Test - ========== test_valid_login Started ==========
+2026-07-30 04:26:32,086 - INFO - LoginPage - Login process started
+2026-07-30 04:26:32,086 - INFO - LoginPage - Entering username
+2026-07-30 04:26:32,167 - INFO - LoginPage - Entering password
+2026-07-30 04:26:32,230 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:26:32,325 - INFO - LoginPage - Login process completed
+2026-07-30 04:26:32,347 - INFO - Test - ========== test_valid_login Passed ==========
+2026-07-30 04:26:32,348 - INFO - Browser - Closing Browser
+2026-07-30 04:26:34,442 - INFO - Browser - Launching Chrome Browser
+2026-07-30 04:26:35,910 - INFO - Browser - Browser Maximized
+2026-07-30 04:26:36,342 - INFO - Browser - Navigated to https://www.saucedemo.com/
+2026-07-30 04:26:36,343 - INFO - Test - ========== test_logout Started ==========
+2026-07-30 04:26:36,343 - INFO - LoginPage - Login process started
+2026-07-30 04:26:36,343 - INFO - LoginPage - Entering username
+2026-07-30 04:26:36,426 - INFO - LoginPage - Entering password
+2026-07-30 04:26:36,495 - INFO - LoginPage - Clicking Login button
+2026-07-30 04:26:36,584 - INFO - LoginPage - Login process completed
+2026-07-30 04:26:36,585 - INFO - InventoryPage - Logout started
+2026-07-30 04:26:36,585 - INFO - InventoryPage - Opening side menu
+2026-07-30 04:26:37,168 - INFO - InventoryPage - Clicking Logout
+2026-07-30 04:26:37,195 - INFO - InventoryPage - Logout completed
+2026-07-30 04:26:37,198 - INFO - Test - ========== test_logout Passed ==========
+2026-07-30 04:26:37,199 - INFO - Browser - Closing Browser

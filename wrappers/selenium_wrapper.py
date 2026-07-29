@@ -1,5 +1,6 @@
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException
 
 
 class SeleniumWrapper:
@@ -29,3 +30,10 @@ class SeleniumWrapper:
         return self.wait.until(
             EC.visibility_of_element_located(locator)
         ).is_displayed()
+
+    def is_element_present(self, locator):
+        try:
+            self.driver.find_element(*locator)
+            return True
+        except NoSuchElementException:
+            return False

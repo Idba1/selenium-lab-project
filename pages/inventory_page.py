@@ -3,6 +3,7 @@ from pages.base_page import BasePage
 from utilities.logger import get_logger
 from selenium.webdriver.support import expected_conditions as EC
 
+
 class InventoryPage(BasePage):
 
     PAGE_TITLE = (By.CLASS_NAME, "title")
@@ -50,3 +51,31 @@ class InventoryPage(BasePage):
         )
 
         self.logger.info("Logout completed")
+
+    # Cart phase
+    CART_BADGE = (By.CLASS_NAME, "shopping_cart_badge")
+    CART_ICON = (By.CLASS_NAME, "shopping_cart_link")
+
+    BACKPACK_ADD_BUTTON = (By.ID, "add-to-cart-sauce-labs-backpack")
+    BIKE_LIGHT_ADD_BUTTON = (By.ID, "add-to-cart-sauce-labs-bike-light")
+
+    BACKPACK_REMOVE_BUTTON = (By.ID, "remove-sauce-labs-backpack")
+
+    def add_backpack(self):
+        self.logger.info("Adding Backpack")
+        self.click(self.BACKPACK_ADD_BUTTON)
+
+    def add_bike_light(self):
+        self.logger.info("Adding Bike Light")
+        self.click(self.BIKE_LIGHT_ADD_BUTTON)
+
+    def remove_backpack(self):
+        self.logger.info("Removing Backpack")
+        self.click(self.BACKPACK_REMOVE_BUTTON)
+
+    def open_cart(self):
+        self.logger.info("Opening Cart")
+        self.click(self.CART_ICON)
+
+    def get_cart_badge(self):
+        return self.get_text(self.CART_BADGE)
