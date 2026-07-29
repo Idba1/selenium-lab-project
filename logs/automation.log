@@ -1,0 +1,21 @@
+2026-07-30 01:48:36,694 - INFO - Test - Test Started
+2026-07-30 01:48:36,695 - INFO - LoginPage - Login process started
+2026-07-30 01:48:36,695 - INFO - LoginPage - Entering username
+2026-07-30 01:48:36,777 - INFO - LoginPage - Entering password
+2026-07-30 01:48:36,839 - INFO - LoginPage - Clicking Login button
+2026-07-30 01:48:36,931 - INFO - LoginPage - Login process completed
+2026-07-30 01:48:36,931 - INFO - Test - Login Finished
+2026-07-30 01:49:15,199 - INFO - LoginPage - Login process started
+2026-07-30 01:49:15,199 - INFO - LoginPage - Entering username
+2026-07-30 01:49:15,282 - INFO - LoginPage - Entering password
+2026-07-30 01:49:15,346 - INFO - LoginPage - Clicking Login button
+2026-07-30 01:49:15,439 - INFO - LoginPage - Login process completed
+2026-07-30 01:49:22,113 - INFO - LoginPage - Login process started
+2026-07-30 01:49:22,113 - INFO - LoginPage - Entering username
+2026-07-30 01:49:22,198 - INFO - LoginPage - Entering password
+2026-07-30 01:49:22,260 - INFO - LoginPage - Clicking Login button
+2026-07-30 01:49:22,351 - INFO - LoginPage - Login process completed
+2026-07-30 01:49:22,352 - INFO - InventoryPage - Logout started
+2026-07-30 01:49:22,352 - INFO - InventoryPage - Opening side menu
+2026-07-30 01:49:22,405 - INFO - InventoryPage - Clicking Logout
+2026-07-30 01:49:22,970 - INFO - InventoryPage - Logout completed
