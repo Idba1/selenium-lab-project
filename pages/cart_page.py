@@ -22,7 +22,11 @@ class CartPage(BasePage):
     def get_title(self):
         return self.get_text(self.CART_TITLE)
 
+    # def click_checkout(self):
+    #     self.click(self.CHECKOUT)
+    
     def click_checkout(self):
+        self.logger.info("Opening Checkout")
         self.click(self.CHECKOUT)
 
     def continue_shopping(self):
