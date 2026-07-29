@@ -1,8 +1,8 @@
 from selenium.webdriver.common.by import By
-from wrappers.selenium_wrapper import SeleniumWrapper
+from pages.base_page import BasePage
 
 
-class InventoryPage(SeleniumWrapper):
+class InventoryPage(BasePage):
 
     PAGE_TITLE = (By.CLASS_NAME, "title")
     MENU_BUTTON = (By.ID, "react-burger-menu-btn")

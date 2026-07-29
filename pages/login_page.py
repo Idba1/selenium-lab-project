@@ -1,8 +1,8 @@
 from selenium.webdriver.common.by import By
-from wrappers.selenium_wrapper import SeleniumWrapper
+from pages.base_page import BasePage
 
 
-class LoginPage(SeleniumWrapper):
+class LoginPage(BasePage):
 
     USERNAME_INPUT = (By.ID, "user-name")
     PASSWORD_INPUT = (By.ID, "password")
