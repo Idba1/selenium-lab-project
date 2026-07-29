@@ -7,6 +7,7 @@ class CheckoutCompletePage(BasePage):
 
     COMPLETE_HEADER = (By.CLASS_NAME, "complete-header")
 
+    # BACK_HOME = (By.ID, "back-to-products")
     BACK_HOME = (By.ID, "back-to-products")
 
     def __init__(self, driver):
@@ -16,5 +17,9 @@ class CheckoutCompletePage(BasePage):
     def success_message(self):
         return self.get_text(self.COMPLETE_HEADER)
 
+    # def back_home(self):
+    #     self.click(self.BACK_HOME)
+
     def back_home(self):
+        self.logger.info("Clicking Back Home")
         self.click(self.BACK_HOME)

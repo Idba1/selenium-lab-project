@@ -29,8 +29,8 @@ class InventoryPage(BasePage):
         )
 
         # Debug
-        print("Logout displayed:", logout_btn.is_displayed())
-        print("Logout enabled:", logout_btn.is_enabled())
+        # print("Logout displayed:", logout_btn.is_displayed())
+        # print("Logout enabled:", logout_btn.is_enabled())
 
         # JavaScript click
         self.driver.execute_script("arguments[0].click();", logout_btn)

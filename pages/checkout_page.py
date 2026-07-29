@@ -37,3 +37,6 @@ class CheckoutPage(BasePage):
 
     def get_error(self):
         return self.get_text(self.ERROR_MESSAGE)
+
+    def click_cancel(self):
+        self.click(self.CANCEL_BUTTON)
